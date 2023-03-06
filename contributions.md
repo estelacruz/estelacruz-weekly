@@ -22,6 +22,23 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+| Feb | [Link](https://www.openstreetmap.org/node/10702886440)   | OpenStreetMap    |   Added a Convenience store and included its hours of operation   |
+| Feb | [Link](https://www.openstreetmap.org/changeset/133189151)   | OpenStreetMap    | Added a Supermarket and included its hours of operation as well as contact  |
+|   Feb  |   [Link](https://www.openstreetmap.org/changeset/133189000)  |  OpenStreetMap   |    Added Fire department information, such as their name and address  |
+|     |   [Link]()  |     |      |
+|     |   [Link]()  |     |      |
+|     |   [Link]()  |     |      |
+|     |   [Link]()  |     |      |
+|     |   [Link]()  |     |      |
+|     |   [Link]()  |     |      |
+|     |   [Link]()  |     |      |
+|     |   [Link]()  |     |      |
+|     |   [Link]()  |     |      |
+|     |   [Link]()  |     |      |
+|     |   [Link]()  |     |      |
+|     |   [Link]()  |     |      |
+|     |   [Link]()  |     |      |
+|     |   [Link]()  |     |      |
+|     |   [Link]()  |     |      |
+|     |   [Link]()  |     |      |
+|     |   [Link]()  |     |      |
