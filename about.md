@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Estela Bobadilla-Cruz, I am a senior at NYU CAS studying Computer Science. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+Connect with me via LinkedIn [Link](https://www.linkedin.com/in/estelabobadilla-cruz/) or email me at estelabcruz@nyu.edu 
