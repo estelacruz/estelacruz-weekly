@@ -8,4 +8,4 @@ My name is Estela Bobadilla-Cruz, I am a senior at NYU CAS studying Computer Sci
 
 ### More Information
 
-Connect with me via LinkedIn [Link](https://www.linkedin.com/in/estelabobadilla-cruz/) or email me at estelabcruz@nyu.edu 
+Connect with me via [LinkedIn](https://www.linkedin.com/in/estelabobadilla-cruz/) or email me at estelabcruz@nyu.edu 
